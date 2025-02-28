@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Список</string>
+    <string name="title_notifications">История</string>
+</resources>

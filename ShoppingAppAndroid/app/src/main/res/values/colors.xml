@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="green_primary">#4CAF50</color>
+    <color name="green_primary_variant">#388E3C</color>
+    <color name="green_secondary">#81C784</color>
+    <color name="green_secondary_variant">#66BB6A</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_grey">#BDBDBD</color>
+
+    <color name="search_background_day">#E6E6E6</color>
+    <color name="card_background_day">#FFFFFF</color>
+    <color name="background_color_day">#F0F0F0</color>
+
+    <color name="search_background_night">#545454</color>
+    <color name="card_background_night">#424242</color>
+    <color name="background_color_night">#303030</color>
+</resources>
