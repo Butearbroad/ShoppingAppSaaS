@@ -70,7 +70,6 @@ public class SelectedProductAdapter extends RecyclerView.Adapter<SelectedProduct
             tvDetails.setText(details);
             tvTotal.setText(String.format("Сумма: %.2f", item.getTotalSum()));
 
-            // Применяем зачеркивание, если товар отмечен как купленный
             if (item.isPurchased()) {
                 tvName.setPaintFlags(tvName.getPaintFlags() | Paint.STRIKE_THRU_TEXT_FLAG);
                 tvDetails.setPaintFlags(tvDetails.getPaintFlags() | Paint.STRIKE_THRU_TEXT_FLAG);
